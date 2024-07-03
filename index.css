@@ -1,0 +1,30 @@
+#main-text-block{
+    border: 2px, black;
+    background-image: url("./assets/1679345514549455.png");
+    margin-bottom: 86px;
+}
+h2, h4, #cat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    outline-style: none;
+    border-style: ridge;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+  }
+#footnotes{
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
